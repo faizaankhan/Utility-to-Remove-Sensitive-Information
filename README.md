@@ -4,4 +4,5 @@ An automation project for removal of sensitive data from Microsoft Office Docume
 Developers:
 Swagarika J Giri |
 Shubham Kumar  |
-Faizaan Ahmed Khan
+Faizaan Ahmed Khan |
+[Vikas Kumar](https://github.com/vikas-0)
