@@ -2,7 +2,7 @@
 An automation project written in Powershell for removal of sensitive data from Microsoft Office Documents ( Excel, Word, PowerPoint included)  and Microsoft Visio Drawings present in zip or unzipped directories.
 
 
-# One can check the script and java code if below functionalities are required in Powershell / Any Scripting Language
+## One can check the script and java code if below functionalities are required in Powershell / Any Scripting Language
 
 Access and modify word, excel, powerpoint, visio documents through script
 
